@@ -15,7 +15,9 @@ Raylib is added as a submodule targeting a specific commit (currently v3.7.0). R
 # clone this repository
 git clone git@github.com:tducasse/raylib_starter.git
 # get the raylib source
-git submodule update --init
+git submodule update --init    
+or     
+git submodule update --init --recursive    
 ```
 
 Then, in a cmd or powershell terminal:
