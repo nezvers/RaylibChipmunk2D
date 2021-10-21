@@ -10,10 +10,12 @@ Raylib example project using Chipmunk2D physics engine. Example code from [bedro
 ```sh
 # clone this repository
 git clone https://github.com/nezvers/RaylibTemplate.git
-# get both raylib and Chipmunk2D - NOT 100% SURE
-git submodule update --init    
-or     
-git submodule update --init --recursive    
+# change directory to the repository
+cd RaylibTemplate
+#initialize config
+git submodule init
+# get both raylib and Chipmunk2D - in my experience slow download
+git submodule update --init --recursive --progress   
 ```
 
 Then, in a cmd or powershell terminal:     
