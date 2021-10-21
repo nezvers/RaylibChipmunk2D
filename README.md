@@ -9,7 +9,7 @@ Raylib example project using Chipmunk2D physics engine. Example code from [bedro
 ## Usage    
 ```sh
 # clone this repository
-git clone --recurse-submodules https://github.com/nezvers/RaylibTemplate.git
+git clone --recurse-submodules https://github.com/nezvers/RaylibChipmunk2D.git
 ```
 
 Then, in a cmd or powershell terminal:     
