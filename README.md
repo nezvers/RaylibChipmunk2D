@@ -13,5 +13,5 @@ git clone --recurse-submodules https://github.com/nezvers/RaylibChipmunk2D.git
 ```
 
 Then, in a cmd or powershell terminal:     
-- premake5 [target project] (https://premake.github.io/docs/Using-Premake/)    
+- premake5 [[target project](https://premake.github.io/docs/Using-Premake/)]     
 - for Visual Studio 2019 users just launch premake_VS2019.bat
