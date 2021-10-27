@@ -12,6 +12,6 @@ Raylib example project using Chipmunk2D physics engine. Example code from [bedro
 git clone --recurse-submodules https://github.com/nezvers/RaylibChipmunk2D.git
 ```
 
-Then, in a cmd or powershell terminal:     
+Then, in a cmd or powershell terminal (change to repository directory):     
 - premake5 [[target project](https://premake.github.io/docs/Using-Premake/)]     
-- for Visual Studio 2019 users just launch premake_VS2019.bat
+* for Visual Studio 2019 users just launch premake_VS2019.bat
